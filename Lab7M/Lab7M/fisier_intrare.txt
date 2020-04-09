@@ -1,0 +1,6 @@
+5 Camera1 5
+20 Camera2 14
+7 Camera3 20
+75 Apartament1 40
+30 Apartament2 3
+14 Casa1 5
