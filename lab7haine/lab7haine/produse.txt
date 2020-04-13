@@ -1,0 +1,4 @@
+ochelari_de_soare 50 10
+pantaloni_lungi 120 15
+pantaloni_scurti 40 13
+tricouri_albe 20 50
